@@ -10,7 +10,7 @@ with open ('C://Users\Administrator\Documents/usuarios.txt', 'r') as arquivo:
         lista_de_dados.append((usuario,tamanho_em_disco))
 
 
-cabecalho='''ACME Inc.               Uso do espaço em disco pelos usuários
+cabecalho='''acme 33 Inc.               Uso do espaço em disco pelos usuários
 ------------------------------------------------------------------------
 Nr.  Usuário        Espaço utilizado     % do uso'''
 
