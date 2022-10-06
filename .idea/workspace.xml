@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f26b9d17-92b5-4c5e-af8e-ecc397f84085" name="Changes" comment="commit &quot;versão2&quot;">
-      <change beforePath="$PROJECT_DIR$/arquivo de texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/arquivo de texto.py" afterDir="false" />
+    <list default="true" id="f26b9d17-92b5-4c5e-af8e-ecc397f84085" name="Changes" comment="commit &quot;versão3&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ERIK",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -47,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664492097172</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit &quot;versão3&quot;">
+      <created>1664500834477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664500834477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,6 +72,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit &quot;versão2&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit &quot;versão2&quot;" />
+    <MESSAGE value="commit &quot;versão3&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit &quot;versão3&quot;" />
   </component>
 </project>
