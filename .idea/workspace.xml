@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f26b9d17-92b5-4c5e-af8e-ecc397f84085" name="Changes" comment="OO classe bola">
-      <change afterPath="$PROJECT_DIR$/classe_quadrado.py" afterDir="false" />
+    <list default="true" id="f26b9d17-92b5-4c5e-af8e-ecc397f84085" name="Changes" comment="OO classe quadrado">
+      <change afterPath="$PROJECT_DIR$/classe_Bomba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classe_pessoa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665170617150</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="OO classe quadrado">
+      <created>1665173025379</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665173025379</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +113,7 @@
     <MESSAGE value="Exercicios de Classe OO" />
     <MESSAGE value="OO exemplo da neftlix, classes." />
     <MESSAGE value="OO classe bola" />
-    <option name="LAST_COMMIT_MESSAGE" value="OO classe bola" />
+    <MESSAGE value="OO classe quadrado" />
+    <option name="LAST_COMMIT_MESSAGE" value="OO classe quadrado" />
   </component>
 </project>
