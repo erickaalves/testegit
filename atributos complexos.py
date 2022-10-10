@@ -14,3 +14,12 @@ print(pessoa1.nome)
 print(pessoa1.idade)
 print(pessoa1.cumprimentar())
 print(pai1.filhos)
+for filhos in pai1.filhos:
+    print(filhos)
+pai1.sobrenome = 'Alves'
+##atributo dinamico
+
+print (pai1.sobrenome)
+
+print(pai1.__dict__)
+##mostra todos os atributos da Pessoa
