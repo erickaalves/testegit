@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f26b9d17-92b5-4c5e-af8e-ecc397f84085" name="Changes" comment="classes exe">
-      <change afterPath="$PROJECT_DIR$/classecarro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atributos complexos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classecarro.py" beforeDir="false" afterPath="$PROJECT_DIR$/classecarro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
